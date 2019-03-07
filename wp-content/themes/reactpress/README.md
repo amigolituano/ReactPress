@@ -37,7 +37,7 @@
 ## Getting Started
 
 ```bash
-open reactpach theme folder
+open reactpress theme folder
 npm install
 npm run start:docker
 
